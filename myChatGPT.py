@@ -8,7 +8,7 @@ from elasticsearch import Elasticsearch
 # OpenAI's GPT's Question Answering power
 # https://www.elastic.co/blog/chatgpt-elasticsearch-openai-meets-private-data
 
-# Code is presented for demo purposes but should not be used in production
+# Code is presented for demo purposes but should not be used in production a
 # You may encounter exceptions which are not handled in the code
 
 
