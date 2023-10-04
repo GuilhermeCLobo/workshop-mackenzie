@@ -103,7 +103,7 @@ def chat_gpt(prompt, model="gpt-3.5-turbo", max_tokens=1024, max_context_tokens=
     return response["choices"][0]["message"]["content"]
 
 
-st.title("Recife GPT")
+st.title("Mackenzie GPT")
 
 # Main chat form
 #print(os.environ['openai_api'])
